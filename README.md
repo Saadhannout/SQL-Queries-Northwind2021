@@ -1,7 +1,7 @@
 # SQL-Queries-Northwind2021
 This repository contains SQL queries for interacting with the Northwind2021 database, showcasing various operations such as retrieving customer details, product information, and supplier data.
 
-د
+
 ## Queries Included:
 
 - Display a list of all customers
@@ -18,8 +18,18 @@ These SQL queries can be useful for:
 
 ## Requirements
 
-- SQL Server or similar database management system
+- SQL Server or a similar database management system
 - Access to the Northwind2021 database
+
+## How to Use
+
+1. Download the `queries.sql` file and run the queries on your local copy of the Northwind2021 database.
+
+## Notes
+
+- The queries are written in SQL Server syntax.
+- Make sure you have access to the Northwind2021 database in your SQL environment before running the queries.
+
 
 
  
